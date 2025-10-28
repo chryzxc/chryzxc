@@ -19,7 +19,7 @@ I aim to bridge the gap between **software engineering** and **cybersecurity**, 
 
 #### Core Expertise
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nestjs,nodejs,express,react,reactnative,mongodb,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nestjs,nodejs,express,react,mongodb,tailwind&theme=dark" />
 </p>
 
 #### Limited Experience
