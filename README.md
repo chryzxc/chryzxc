@@ -64,22 +64,9 @@ I aim to bridge the gap between **software engineering** and **cybersecurity**, 
 
 ### Currently Exploring
 
-> AI Agents and MCP Servers  
-> Supabase, Prisma and PostgreSQL   
-> Cybersecurity tools & penetration testing automation  
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/chryzxc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/chryzxc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+> - AI Agents and MCP Servers  
+> - Supabase, Prisma and PostgreSQL   
+> - Cybersecurity tools & penetration testing automation  
 
 ---
 
