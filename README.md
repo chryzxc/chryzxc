@@ -29,13 +29,6 @@ I aim to bridge the gap between **software engineering** and **cybersecurity**, 
 
 ---
 
-### Libraries, Tools & Frameworks
-
-> Mantine • Redux • React Query • Zustand • Chakra UI • Ant Design • MUI • shadcn/ui • Framer Motion  
-> Yup • Zod • Bootstrap • Scikit-learn • PyTorch • HeroUI • Model Context Protocol  
-
----
-
 ### My Focus
 
 - 🧩 Building secure, scalable systems with clean architecture  
