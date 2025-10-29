@@ -48,7 +48,7 @@ I aim to bridge the gap between **software engineering** and **cybersecurity**, 
 
 ### GitHub Analytics
 
-<p align="center">
+<p align="left">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=chryzxc&show_icons=true&theme=radical" height="160" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chryzxc&layout=compact&theme=radical" height="160" />
 </p>
