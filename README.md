@@ -39,13 +39,6 @@ I aim to bridge the gap between **software engineering** and **cybersecurity**, 
 
 ---
 
-### Soft Skills
-
-| ⚡ Fast Learner | 💡 Critical Thinker | 🧩 Problem Solver | 🧠 Detail-Oriented | 🔄 Highly Adaptable |
-|:---------------:|:------------------:|:----------------:|:-----------------:|:-------------------:|
-
----
-
 ### Currently Exploring
 
 > - AI Agents and MCP Servers  
