@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00ffae;">Christian Rey Villablanca</span></h1>
-<h3 align="center">💻 Full-Stack Developer | 🛡️ Cybersecurity Enthusiast | 🚀 Continuous Learner</h3>
+<h3 align="center">💻 Full-Stack Developer | 🛡️ Cybersecurity Enthusiast
 
 ---
 
